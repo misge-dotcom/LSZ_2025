@@ -6,8 +6,8 @@ Willkommen im Repository für die **LSZ 2025** Unterlagen.
 
 Dieses Repository enthält folgende Dateien:
 
-- `LSZ_2025_Praesentation.pptx` – Die offizielle Präsentation mit allen wichtigen Informationen und Visualisierungen zum Projekt.
-- `LSZ_2025_Demo.xlsx` – Eine Excel-Demo mit Beispiel-Daten oder Analysen, die im Rahmen der Präsentation verwendet werden.
+- `Pptx` – Die offizielle Präsentation mit allen wichtigen Informationen und Visualisierungen 
+- `Xlsx` – Eine Excel-Demo mit Beispiel-Daten oder Analysen, die im Rahmen der Präsentation verwendet werden.
 
 ## 📥 Download
 
